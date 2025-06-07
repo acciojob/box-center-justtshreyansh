@@ -5,10 +5,11 @@
 	
 }
 .inner-container{
+	
 	height:200px;
 	width:200px;
 	background-color:lightblue;
-	border:2px thick black;
+	border:2px solid black;
 	position: absolute; /* or fixed */
   top: 50%;
   left: 50%;
